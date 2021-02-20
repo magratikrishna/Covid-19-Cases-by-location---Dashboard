@@ -3,4 +3,4 @@
 - Data from Kaggle
 - Built on Tableau
 - Confirmed cases and losses of lifes
-- View grwoth of rate by time and location
+- View rate of growth by time and location
